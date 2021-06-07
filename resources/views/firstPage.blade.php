@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>First page</h1>
+    <a href="/">Home</a>
 </body>
 </html>
